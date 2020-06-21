@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/Darkmode-Toggle/static/js/main.5e2fab65.chunk.js",
+    "main.js.map": "/Darkmode-Toggle/static/js/main.5e2fab65.chunk.js.map",
+    "runtime-main.js": "/Darkmode-Toggle/static/js/runtime-main.5b5ca267.js",
+    "runtime-main.js.map": "/Darkmode-Toggle/static/js/runtime-main.5b5ca267.js.map",
+    "static/js/2.230eaa3f.chunk.js": "/Darkmode-Toggle/static/js/2.230eaa3f.chunk.js",
+    "static/js/2.230eaa3f.chunk.js.map": "/Darkmode-Toggle/static/js/2.230eaa3f.chunk.js.map",
+    "index.html": "/Darkmode-Toggle/index.html",
+    "precache-manifest.bdc95166e1db5ef4885ec74ffc29535e.js": "/Darkmode-Toggle/precache-manifest.bdc95166e1db5ef4885ec74ffc29535e.js",
+    "service-worker.js": "/Darkmode-Toggle/service-worker.js",
+    "static/js/2.230eaa3f.chunk.js.LICENSE.txt": "/Darkmode-Toggle/static/js/2.230eaa3f.chunk.js.LICENSE.txt",
+    "static/media/moon.25e91ac6.svg": "/Darkmode-Toggle/static/media/moon.25e91ac6.svg",
+    "static/media/sun.fe4053b9.svg": "/Darkmode-Toggle/static/media/sun.fe4053b9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b5ca267.js",
+    "static/js/2.230eaa3f.chunk.js",
+    "static/js/main.5e2fab65.chunk.js"
+  ]
+}
