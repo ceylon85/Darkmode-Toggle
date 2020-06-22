@@ -9,6 +9,7 @@ function App() {
   const [theme, toggleTheme, componentMounted] = useDarkMode();
   const themeMode = theme === 'light' ? lightTheme : darkTheme;
 
+  //componentMounte가 발생하지 않으면 빈 div 를 렌더링
   if (!componentMounted) {
     return <div />
   };
